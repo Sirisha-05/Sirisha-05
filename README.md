@@ -2,17 +2,18 @@
 
 ### About Me
 
-* **Third-year B.Tech CSE Student**
+* **Fourth-year B.Tech CSE Student**
 * Eager to learn and explore new technologies
 
 ### 💡 What I'm Learning
 
 * Currently studying Data Structures and Algorithms.
 * Certified in AWS-CLF-C02.
+* Certified in AZURE AZ-900
 
 ### 💻 Skills
 
-* **Programming Languages:** Java
+* **Programming Languages:** Java,Python
 * **Web Development:** HTML, CSS, JavaScript, React
 * **Databases:** SQL
 
@@ -31,6 +32,7 @@
 
 ### 📜 Certifications
 * Certified in AWS-CP(CLF-C02).
+* Certified in AZURE(AZ-900).
 
 <!--
 **Sirisha-05/Sirisha-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
